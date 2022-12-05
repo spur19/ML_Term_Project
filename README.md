@@ -1,2 +1,4 @@
-# ML_Term_Project
-The ML Term Project for Group 20, Fall Semester 2022
+# ML Term Project (Group 20)
+
+Dataset : crx.data
+Colab Notebook : ML Term Project.ipynb
